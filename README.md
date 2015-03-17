@@ -1,13 +1,19 @@
-# Medical / Health Underwriting App
-
-Health Underwriting App
+Employee Benefits App
 ================
 
-A Python app that can be used to do simple medical underwriting projections
+A Python app for benefits adminstration. 
+
+## Planned Parts (in this order)
++ Tenant module to manage users and orgs
++ Plan Inventory App
++ Underwriting App
++ HRIS App
++ Claim data analysis
++ Annual Budgeting App
 
 ## Setup
 
-More coming soon ... 
+Shell script or Fabric script for provisioning coming soon
 
 ~~~
 mkdir Underwriting
