@@ -1,4 +1,4 @@
-import common_utils
+from Underwrite.common_utils import common_utils
 
 
 def validate_user(user):

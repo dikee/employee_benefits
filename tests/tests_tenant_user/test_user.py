@@ -1,6 +1,4 @@
-from Underwrite.underwrite.user_ctrl import validate_user
-
-# user_ctrl = user.user_ctrl  # .user_ctrl import UserCtrl
+from Underwrite.tenant_user.user_ctrl import validate_user
 
 
 def test_validate_new_user():
