@@ -1,13 +1,20 @@
-# Medical / Health Underwriting App
-
-Health Underwriting App
+Employee Benefits App
 ================
 
-A Python app that can be used to do simple medical underwriting projections
+Open Source Benefits Adminstration. 
+
+## Planned Parts (in this order)
++ Tenant module to manage users and orgs
++ Cassandra driven data store
++ Plan Inventory App
++ Underwriting App
++ HRIS App
++ Claim data analysis
++ Annual Budgeting App
 
 ## Setup
 
-More coming soon ... 
+Shell script or Fabric script for provisioning coming soon
 
 ~~~
 mkdir Underwriting
@@ -19,8 +26,12 @@ cd health_underwriting
 pip install -r requirements.txt
 ~~~
 
+## Run Tests
+~~~
+py.test tests/
+~~~
 
-### License
+## License
 
 The MIT License (MIT)
 
