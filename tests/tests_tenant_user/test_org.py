@@ -1,4 +1,4 @@
-from Underwrite.tenant_user.org_ctrl import validate_org
+from employee_benefits.tenant_user.org_ctrl import validate_org
 
 
 def test_org_name_succeeds():

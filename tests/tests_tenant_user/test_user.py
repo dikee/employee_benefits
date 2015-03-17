@@ -1,4 +1,4 @@
-from Underwrite.tenant_user.user_ctrl import validate_user
+from employee_benefits.tenant_user.user_ctrl import validate_user
 
 
 def test_validate_new_user():

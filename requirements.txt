@@ -7,5 +7,4 @@ coverage==3.7.1
 py==1.4.26
 pytest==2.6.4
 pytest-cov==1.8.1
-test-pkg==0.0
 wsgiref==0.1.2
