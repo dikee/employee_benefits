@@ -149,7 +149,7 @@ def test_validate_new_user_fail7():
     Test missing values
     '''
     new_user = {
-        'emadil': 'dkalu@gcom',
+        'email': 'dkalu@gcom',
         'password': 'foobar123',
         'confirm_password': 'foobar123',
         'org_id': '',
